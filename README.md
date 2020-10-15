@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-This repository consists of all my Machine Learning Projects.
+This repository consists of small scale machine learning projects to understand the core concepts.
 <br>
 
 - [**Customer Subscription Prediction**](customer_subscription_prediction)
